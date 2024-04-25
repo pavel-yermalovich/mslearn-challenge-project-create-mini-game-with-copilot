@@ -1,6 +1,5 @@
 import random
 
-# declare integer variable games
 games = 0
 won = 0
 
